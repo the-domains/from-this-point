@@ -1,4 +1,3 @@
-layout_spectrum: 0.01252357056364417
 typography_spectrum: 0.7883566638920456
 color:
   brandStrength: 0.8698642989620566
@@ -11,4 +10,11 @@ color:
     - '#611427'
     - '#1D2326'
     - '#6A6A61'
+layout_spectrum: 0.01252357056364417
+author:
+  name: bob chaney
+  email: ttf3289@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb6d63cb-b5de-4955-8fdc-09845cfc9f40.png
 name: from this point ...
+title: anything is possible
