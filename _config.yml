@@ -17,4 +17,8 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb6d63cb-b5de-4955-8fdc-09845cfc9f40.png
 name: from this point ...
+navigation:
+  - name: madness
+    url: 'https://www.facebook.com/bob.chaney.90'
+    type: external
 title: anything could happen
